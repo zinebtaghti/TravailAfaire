@@ -49,4 +49,4 @@ L'interface utilisateur est définie dans un fichier XML, qui comprend :
 1. Remplissez le formulaire d'inscription avec vos informations personnelles.
 2. Cliquez sur *Envoyer* pour voir le récapitulatif de vos informations dans une nouvelle activité.
 ## Video demonstratif
-https://github.com/user-attachments/assets/c5b3fe87-a66f-485b-a7b5-5bcbf1094143
+https://github.com/user-attachments/assets/b061b651-07d0-4009-8cbc-420172d8d745
